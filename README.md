@@ -34,21 +34,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmoysaha&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T4NM0Y-07&show_icons=true" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanmoysaha" />
+  <img src="https://streak-stats.demolab.com?user=T4NM0Y-07" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 <p>
-  <a href="https://github.com/tanmoysaha">GitHub</a>
+  <a href="https://github.com/T4NM0Y-07">GitHub</a>
 </p>
 
 ---
