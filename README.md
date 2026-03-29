@@ -98,7 +98,7 @@
 
 | Project Name | Description | Tech Stack | Try It Out |
 | :--- | :--- | :--- | :--- |
-| **ViralBoost AI** | A premium, robust platform providing advanced tools to generate viral content for social platforms. | React, Next.js, Tailwind, Node | [Live Demo](#) |
+| **ViralBoost AI** | A premium, robust platform providing advanced tools to generate viral content for social platforms. | React, Next.js, Tailwind, Node | [Live Demo](viralboost-ai-h64.caffeine.xyz) |
 | **Project Two** | Write a quick one-liner about your awesome second project here. | Vue, Firebase, SCSS | [View Source](#) |
 
 ---
