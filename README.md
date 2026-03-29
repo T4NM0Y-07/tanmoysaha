@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:tanmoyhere07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://YOUR_PORTFOLIO_WEBSITE">
@@ -48,11 +48,11 @@
 ### 📈 Live GitHub Statistics (Real-time Tracking)
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=1a1b26" width="48%" alt="GitHub Stats" />
+  <a href="https://github.com/T4NM0Y-07">
+    <img src="https://github-readme-stats.vercel.app/api?username=T4NM0Y-07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=1a1b26" width="48%" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&background=1a1b26" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/T4NM0Y-07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4NM0Y-07&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&background=1a1b26" width="48%" alt="GitHub Streak" />
   </a>
 </div>
 <br />
