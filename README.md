@@ -86,9 +86,9 @@
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username once the Action is set up. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/T4NM0Y-07/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
