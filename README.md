@@ -84,7 +84,10 @@
 > 💡 **Setup Note:** To make this dynamic snake animation work, you will need to add the [snk GitHub Action](https://github.com/Platane/snk) to your special profile repository.
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username once the Action is set up. -->
+  uses: Platane/snk@v3
+  with:
+    T4NM0Y-07: ${{ github.tanmoysaha }}
+      
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/output/github-contribution-grid-snake.svg">
